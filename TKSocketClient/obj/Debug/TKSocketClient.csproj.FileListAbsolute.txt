@@ -1,0 +1,1 @@
+E:\MyProject\TKSocketClient\TKSocketClient\bin\Debug\TKSocketClient.exe.config
